@@ -19,3 +19,6 @@ I am currently building a rock-solid foundation in Computer Science and grinding
 ### 🔗 Let's Connect
 - **LinkedIn**: [https://www.linkedin.com/in/om-gupta-508640418/] 
 - **Email**: omgupta210708@gmail.com
+
+### 📈 GitHub Stats
+![Om's Stats](https://github-readme-stats.vercel.app/api?username=OMBOS921&show_icons=true&theme=radical&hide_border=true&count_private=true)
