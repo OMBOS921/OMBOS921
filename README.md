@@ -1,13 +1,10 @@
-# 🚀 Hi, I'm Om! (Operating in Stealth Mode)
+<div align="center">
 
-### BCA Student | Aspiring AI & DevSecOps Engineer
+# 🚀 Namaste, I'm Om! (Stealth Mode Activated)
 
-I am currently building a rock-solid foundation in Computer Science and grinding hard for my ultimate goal: a top NIT (MCA) and a 50 LPA+ career in Artificial Intelligence & DevSecOps. No fluff, just hardcore practical learning and execution. ⚔️💻
+### BCA 1st Year Student | Aspiring AI & DevSecOps Engineer
 
-- 🔭 **Currently focusing on:** Premium Web Development (HTML/CSS/JS) & C/C++
-- 🌱 **Gearing up for:** Data Structures (DSA) & Python
-- ⚡ **My Secret Weapon:** Consistency & executing plans in pure 'Stealth Mode'.
-
+I am currently building a rock-solid foundation in Computer Science. My ultimate goal is clear: **Top NIT (MCA) & 50 LPA+ Package.** ---
 
 ### 🛠 Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -16,9 +13,15 @@ I am currently building a rock-solid foundation in Computer Science and grinding
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-### 🔗 Let's Connect
-- **LinkedIn**: [https://www.linkedin.com/in/om-gupta-508640418/] 
-- **Email**: omgupta210708@gmail.com
+---
 
 ### 📈 GitHub Stats
 ![Om's Stats](https://github-readme-stats.vercel.app/api?username=OMBOS921&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+---
+
+### 🔗 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-gupta-508640418/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:omgupta210708@gmail.com)
+
+</div>
