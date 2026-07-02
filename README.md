@@ -1,10 +1,14 @@
 <div align="center">
 
+<img src="https://github.com/OMBOS921.png" width="200" style="border-radius: 50%;">
+
 # 🚀 Namaste, I'm Om! (Stealth Mode Activated)
 
 ### BCA 1st Year Student | Aspiring AI & DevSecOps Engineer
 
-I am currently building a rock-solid foundation in Computer Science. My ultimate goal is clear: **Top NIT (MCA) & 50 LPA+ Package.** ---
+I am currently building a rock-solid foundation in Computer Science. My ultimate goal is clear: **Top NIT (MCA) & 50 LPA+ Package.**
+
+---
 
 ### 🛠 Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -16,9 +20,7 @@ I am currently building a rock-solid foundation in Computer Science. My ultimate
 ---
 
 ### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OMBOS921&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Om's Stats" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=OMBOS921&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Om's Stats" />
 
 ---
 
