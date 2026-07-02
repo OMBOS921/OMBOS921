@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/OMBOS921.png" width="200" style="border-radius: 50%;">
-
 # 🚀 Namaste, I'm Om! (Stealth Mode Activated)
 
 ### BCA 1st Year Student | Aspiring AI & DevSecOps Engineer
